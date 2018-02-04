@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1481760740 source:e:\ahmed\documents\codeblocks workspace\minesweeper1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1481798962 source:c:\users\nawar\documents\codeblocksworkspace\minesweeper1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1482533131 source:e:\ahmed\documents\codeblocks workspace\minesweeper2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1482597901 source:c:\users\nawar\documents\codeblocksworkspace\minesweeper2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1482604966 source:d:\youssef\term 3\programming\minesweeper2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1482604968 source:e:\ahmed\college\term-3\programming\flash memory\minesweeperfinal\minesweeper2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
